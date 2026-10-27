@@ -4,7 +4,7 @@
 
 - **榜单来源**：[GitHub Trending · This week](https://github.com/trending?since=weekly)
 - **更新计划**：每周日 19:00，北京时间（Asia/Shanghai）。
-- **最新一期**：[2026-10-18 · 周榜 Top 10](reports/2026-10-18.md)
+- **最新一期**：[2026-10-27 · 周榜 Top 10（补发）](reports/2026-10-27.md)
 - **历史归档**：[查看每期周榜](reports/README.md)
 - **每期内容**：排名、项目链接、中文简介、主要用途、编程语言、本周新增星标、总星标、许可证状态和官方上手文档。
 
